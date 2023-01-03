@@ -1,7 +1,7 @@
 # University-Management-System-Python-Project-
 A python project using json and time library. It is a simple University student database management system.
 
-Contents 
+Contents /n
 Student Data json File
 History Data json File
 Initial time stamp creation file i.e. to create the history data json file
